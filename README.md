@@ -3,7 +3,7 @@
 ## Summary
 This application is a simulated program that mimics the functionality of an ATM. It provides basic banking operations such as viewing balance, making withdrawals, and depositing funds. The application is implemented using C# and runs in the console environment.
 
-## Display of 
+## Display of Application
 
 ## Steps
 1. Run the application.
